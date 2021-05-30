@@ -1,8 +1,8 @@
 # ArtificialIntelligence
-Artficial Intelligence Module
+Artficial Intelligence for Simulation
 
 Authors:
-Adam Hubble
-Alfie Horton
-Joseph Hill
+Adam Hubble,
+Alfie Horton,
+Joseph Hill,
 Josh Howitt
