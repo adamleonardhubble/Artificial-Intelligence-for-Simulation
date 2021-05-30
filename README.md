@@ -1,4 +1,4 @@
-# ArtificialIntelligence
+# Artificial Intelligence
 Artficial Intelligence for Simulation
 
 Authors:
