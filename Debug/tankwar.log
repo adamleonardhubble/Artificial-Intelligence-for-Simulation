@@ -1,0 +1,23 @@
+﻿  DumbTank.cpp
+  aitank.cpp
+  boundingBox.cpp
+  game.cpp
+c:\users\joseph\desktop\aitosubmit\src\game.cpp(483): warning C4474: 'sprintf_s' : too many arguments passed for format string
+  c:\users\joseph\desktop\aitosubmit\src\game.cpp(483): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\joseph\desktop\aitosubmit\src\game.cpp(490): warning C4474: 'sprintf_s' : too many arguments passed for format string
+  c:\users\joseph\desktop\aitosubmit\src\game.cpp(490): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\joseph\desktop\aitosubmit\src\game.cpp(495): warning C4474: 'sprintf_s' : too many arguments passed for format string
+  c:\users\joseph\desktop\aitosubmit\src\game.cpp(495): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\joseph\desktop\aitosubmit\src\game.cpp(500): warning C4474: 'sprintf_s' : too many arguments passed for format string
+  c:\users\joseph\desktop\aitosubmit\src\game.cpp(500): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\joseph\desktop\aitosubmit\src\game.cpp(470): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\users\joseph\desktop\aitosubmit\sfml-2.4.1\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+  main.cpp
+  map.cpp
+  newTank.cpp
+  obstacle.cpp
+  playerTank.cpp
+  shell.cpp
+  tank.cpp
+  Generating Code...
+  tankwar.vcxproj -> C:\Users\joseph\Desktop\AIToSubmit\Debug\tankwar.exe
