@@ -1,4 +1,4 @@
-#Artificial Intelligence for Simulation
+# Artificial Intelligence for Simulation
 Tank War - computer game
 
 Authors:
