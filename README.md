@@ -1,5 +1,5 @@
-# Artificial Intelligence
-Artficial Intelligence for Simulation
+# Artficial Intelligence for Simulation
+Tank War - game
 
 Authors:
 Adam Hubble,
