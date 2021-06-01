@@ -1,5 +1,5 @@
 # Artificial Intelligence for Simulation
-Academic project (Computer Games Programming)
+Academic project (Computer Games Programming BSc)
 
 Tank War - computer game
 
